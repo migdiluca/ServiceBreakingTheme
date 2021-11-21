@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="steps">1- Enable accessibility service from settings\n2- Open the application and the close it (remove from recents)\n3- Change system theme and open application again\n4- What\'s going on?</string>
+</resources>
